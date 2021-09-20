@@ -1,0 +1,4 @@
+C:\Users\Samson\gradebook\obj\Debug\netcoreapp2.2\gradebook.csprojAssemblyReference.cache
+C:\Users\Samson\gradebook\obj\Debug\netcoreapp2.2\gradebook.csproj.CoreCompileInputs.cache
+C:\Users\Samson\gradebook\obj\Debug\netcoreapp2.2\gradebook.AssemblyInfoInputs.cache
+C:\Users\Samson\gradebook\obj\Debug\netcoreapp2.2\gradebook.AssemblyInfo.cs
